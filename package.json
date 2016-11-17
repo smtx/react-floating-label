@@ -1,6 +1,6 @@
 {
   "name": "react-floating-label-smtx",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A material design styled floating label input using react.js",
   "main": "main.js",
   "scripts": {
