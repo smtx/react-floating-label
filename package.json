@@ -35,6 +35,7 @@
     ]
   },
   "dependencies": {
+    "react": ">=0.14",
     "classnames": "^2.2.3"
   },
   "devDependencies": {
@@ -45,8 +46,5 @@
     "ecstatic": "~0.8.0",
     "uglify-js": "^2.4.24",
     "watchify": "^3.2.3"
-  },
-  "peerDependencies": {
-    "react": "~0.14.7"
   }
 }
